@@ -1,4 +1,6 @@
 ## 👋  Hello , Ali here! 👋
+<a href="https://www.linkedin.com/in/alibeniaminali/"> ![App Screenshot](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 ## A little bit about myself
 - 👀 I’m interested in coding :computer: , sports :men_wrestling: and photography :camera_flash:
 - 🌱 Currently learning : [JavaScript: The Advanced Concepts](https://www.udemy.com/course/advanced-javascript-concepts/)

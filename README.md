@@ -1,5 +1,6 @@
 ## 👋  Hello , Ali here! 👋
 <a href="https://www.linkedin.com/in/alibeniaminali/"> ![App Screenshot](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.instagram.com/alibeniamin/?hl=en-gb"> ![App Screenshot](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 ## A little bit about myself
 - 👀 I’m interested in coding :computer: , sports :men_wrestling: and photography :camera_flash:

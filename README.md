@@ -1,7 +1,7 @@
 ## 👋  Hello , Ali here! 👋
 <a href="https://www.linkedin.com/in/alibeniaminali/"> ![App Screenshot](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.instagram.com/alibeniamin/?hl=en-gb"> ![App Screenshot](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href="https://ali-ali-portfolio.netlify.app/"> ![App Screenshot](https://img.shields.io/badge/-PORTFOLIO-green?style=for-the-badge)</a>
+<a href="https://www.alibeniaminali.co.uk/"> ![App Screenshot](https://img.shields.io/badge/-PORTFOLIO-green?style=for-the-badge)</a>
 
 
 
